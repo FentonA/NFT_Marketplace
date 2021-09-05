@@ -1,0 +1,14 @@
+{
+  "name": "nft-marketplace",
+  "version": "1.0.0",
+  "description": "NFT marketplace like rarible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alf Fenton",
+  "license": "ISC",
+  "dependencies": {
+    "moralis": "^0.0.42"
+  }
+}
